@@ -4,19 +4,22 @@ body {
     background-image: url("../src/images/project.jpg");
     background-repeat: no-repeat;
     background-size: cover;
-    background-color: #5900ff;
+    background-color: #b08af7;
     padding: 20px;
     margin: 0;
     
   }
-  h1, h2, p, ul, li {
-    font-family: sans-serif;
+  p, ul, li,  h1, h2 {
+    font-family: Lato;
+    font-size: 30px;
   }
+  
 
+  
   h1 {
     
     text-align: center;
-    background-color: rgb(134, 16, 231);
+    background-color: rgb(255, 253, 253);
     padding: 0;
   }
 
