@@ -16,7 +16,7 @@ class Main extends Component {
       return (
         <HashRouter>
           <div>
-            <h1>ARNGENS.NET</h1>
+            <h4>We are the biggest supplier's of Electronics in Sweden.  From Drones to Electric Cars and Toys!</h4>
             <ul className="header">
             <li><NavLink exact to="/">Home</NavLink></li>
             <li><NavLink to="/ATV">ATV</NavLink></li>

@@ -1,25 +1,33 @@
 
 
 body {
-    background-image: url("../src/images/project.jpg");
+    background-image: url("../src/images/droneb.jpg");
     background-repeat: no-repeat;
-    background-size: cover;
-    background-color: #b08af7;
+    background-size: 1920px 253px;
+    background-color: #12232E;
     padding: 20px;
     margin: 0;
+    background-position: top;
     
   }
   p, ul, li,  h1, h2 {
     font-family: Lato;
     font-size: 30px;
+    background-clip: #007CC7;
   }
   
-
+  h4 {
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 50px;
+    text-align: center;
+    color:rgb(255, 253, 253)
+    
+  }
   
   h1 {
     
     text-align: center;
-    background-color: rgb(255, 253, 253);
+    background-color:#007CC7;
     padding: 0;
   }
 
@@ -40,19 +48,20 @@ body {
     display: inline-block;
   }
   .content {
-    background-color: #FFF;
+    background-color:#007CC7;
     padding: 20px;
   }
   .content h2 {
     padding: 0;
     margin: 0;
+    margin-right: 15;
   }
   .content li {
     margin-bottom: 10px;
   }
 
   .active {
-    background-color: #0099FF;
+    background-color: #203647;
   }
   
   

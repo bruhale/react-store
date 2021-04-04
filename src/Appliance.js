@@ -1,4 +1,6 @@
 import React, { Component } from "react";
+import robvac1 from './images/robvac1.PNG';
+import potice1 from './images/potice1.PNG';
  
 class Appliance extends Component {
   render() {
@@ -10,6 +12,8 @@ class Appliance extends Component {
           
           <li>Available in 3 weeks</li>
           <li>Available in less then 3 weeks</li>
+          <img src={robvac1} alt="Robo Vac 1 img" height={150} width={200} />:&nbsp;
+          <img src={potice1} alt="Appliance 1 img" height={150} width={200} />:&nbsp;
           
           
        
